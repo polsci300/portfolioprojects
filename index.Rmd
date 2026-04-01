@@ -1,29 +1,35 @@
 ---
-title: "tester"
+title: "POLSCI 300 SP25 Portfolio Projects"
 output: html_document
-date: "2023-07-19"
+#date: "2023-07-19"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Welcome!
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+to the host site for POLSCI 300 portfolio projects. We hope you will enjoy the exceptional work that University of Michigan students have done in this course.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Learn more about the course [here](https://docs.google.com/document/d/1_X3QBWYYNLZXKp-bnmsYsOPI0vIG6wqhlbTu0x1OfkE/edit?usp=sharing).
 
-```{r cars}
-summary(cars)
-```
+Click a student's name to view their project:
 
-## Including Plots
+* [Abby Stacy: State-Level Gender Equality: Comparing Anti-Discrimination and Equal Pay Legislation](https://polsci300.github.io/sp25/abbysta)
 
-You can also embed plots, for example:
+* [Caroline Clery: Severity of Punishment for Sexuality Illustrated by the African Region](https://polsci300.github.io/sp25/cclery)
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+* [Celine Wang: Urban Residency & Public Trust In The Chinese Government During Crisis](https://polsci300.github.io/sp25/celinew)
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+* [Geoffrey Martin: The Impact of Lifestyle on Exam Scores](https://polsci300.github.io/sp25/gimartin)
+
+* [Jamie Sullivan: Trust In The Media And Partisanship](https://polsci300.github.io/sp25/jamiesul)
+
+* [John Jenkins: COVID-19 and How it Affected European Political Engagement](https://polsci300.github.io/sp25/jenkij)
+
+* [Maxymilian Stefanski, Aditya Kutty, Jaemo Hyun: Life Expectancy Trends in Alaska Counties (1982-2019)](https://polsci300.github.io/sp25/akutty)
+
+* [Ryan Young: Does Police Presence Reduce Violent Crime?](https://polsci300.github.io/sp25/yryan)
+
+* [Thomas Wood: Electoral Districts and Competitiveness](https://polsci300.github.io/sp25/tmwood)
