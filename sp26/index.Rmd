@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 to the host site for POLSCI 300 portfolio projects. We hope you will enjoy the exceptional work that University of Michigan students have done in this course.
 
-Learn more about the course [here](https://docs.google.com/document/d/1viJvHs3b0x1bUhcDjKLQVbjuQi08Uo-7wilC0yK5rFA/edit?usp=sharing).
+Learn more about the course [here](https://docs.google.com/document/d/14nZpTA_MIx_00ed18wVspLPs_lZiLMkv0Xij2c1yvhc/edit?usp=sharing).
 
 Click a student's name to view their project:
 
