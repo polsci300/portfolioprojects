@@ -16,20 +16,14 @@ Learn more about the course [here](https://docs.google.com/document/d/1viJvHs3b0
 
 Click a student's name to view their project:
 
-* [Abby Stacy: State-Level Gender Equality: Comparing Anti-Discrimination and Equal Pay Legislation](https://polsci300.github.io/sp25/abbysta)
+* [Alex Casem: Education and Voter Turnout](https://polsci300.github.io/sp26/acasem)
 
-* [Caroline Clery: Severity of Punishment for Sexuality Illustrated by the African Region](https://polsci300.github.io/sp25/cclery)
+* [Charles Pelan: How does GDP affect Quality of Life?](https://polsci300.github.io/sp26/pelan)
 
-* [Celine Wang: Urban Residency & Public Trust In The Chinese Government During Crisis](https://polsci300.github.io/sp25/celinew)
+* [Ethan Sage: Civil Unrest in Russia](https://polsci300.github.io/sp26/saeyur)
 
-* [Geoffrey Martin: The Impact of Lifestyle on Exam Scores](https://polsci300.github.io/sp25/gimartin)
+* [Junbo Wang: Rule of Law and Voice & Accountability](https://polsci300.github.io/sp26/junbow)
 
-* [Jamie Sullivan: Trust In The Media And Partisanship](https://polsci300.github.io/sp25/jamiesul)
+* [Kiarah Johnson: State Abortion Bans & Maternal Mortality Rates](https://polsci300.github.io/sp26/kiarahj)
 
-* [John Jenkins: COVID-19 and How it Affected European Political Engagement](https://polsci300.github.io/sp25/jenkij)
-
-* [Maxymilian Stefanski, Aditya Kutty, Jaemo Hyun: Life Expectancy Trends in Alaska Counties (1982-2019)](https://polsci300.github.io/sp25/akutty)
-
-* [Ryan Young: Does Police Presence Reduce Violent Crime?](https://polsci300.github.io/sp25/yryan)
-
-* [student](https://polsci300.github.io/sp25/tmwood)
+* [Qun Ma: Income and Party Identification in the United States](https://polsci300.github.io/sp26/qunma)
