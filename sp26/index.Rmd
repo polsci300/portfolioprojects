@@ -16,14 +16,14 @@ Learn more about the course [here](https://docs.google.com/document/d/1viJvHs3b0
 
 Click a student's name to view their project:
 
-* [Alex Casem: Education and Voter Turnout](https://polsci300.github.io/sp26/acasem)
+* [Alex Casem: Education and Voter Turnout](https://polsci300.github.io/portfolioprojects/sp26/acasem)
 
-* [Charles Pelan: How does GDP affect Quality of Life?](https://polsci300.github.io/sp26/pelan)
+* [Charles Pelan: How does GDP affect Quality of Life?](https://polsci300.github.io/portfolioprojects/sp26/pelan)
 
-* [Ethan Sage: Civil Unrest in Russia](https://polsci300.github.io/sp26/saeyur)
+* [Ethan Sage: Civil Unrest in Russia](https://polsci300.github.io/portfolioprojects/sp26/saeyur)
 
-* [Junbo Wang: Rule of Law and Voice & Accountability](https://polsci300.github.io/sp26/junbow)
+* [Junbo Wang: Rule of Law and Voice & Accountability](https://polsci300.github.io/portfolioprojects/sp26/junbow)
 
-* [Kiarah Johnson: State Abortion Bans & Maternal Mortality Rates](https://polsci300.github.io/sp26/kiarahj)
+* [Kiarah Johnson: State Abortion Bans & Maternal Mortality Rates](https://polsci300.github.io/portfolioprojects/sp26/kiarahj)
 
-* [Qun Ma: Income and Party Identification in the United States](https://polsci300.github.io/sp26/qunma)
+* [Qun Ma: Income and Party Identification in the United States](https://polsci300.github.io/portfolioprojects/sp26/qunma)

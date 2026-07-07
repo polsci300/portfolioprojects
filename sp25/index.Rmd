@@ -16,20 +16,20 @@ Learn more about the course [here](https://docs.google.com/document/d/1_X3QBWYYN
 
 Click a student's name to view their project:
 
-* [Abby Stacy: State-Level Gender Equality: Comparing Anti-Discrimination and Equal Pay Legislation](https://polsci300.github.io/sp25/abbysta)
+* [Abby Stacy: State-Level Gender Equality: Comparing Anti-Discrimination and Equal Pay Legislation](https://polsci300.github.io/portfolioprojects/sp25/abbysta)
 
-* [Caroline Clery: Severity of Punishment for Sexuality Illustrated by the African Region](https://polsci300.github.io/sp25/cclery)
+* [Caroline Clery: Severity of Punishment for Sexuality Illustrated by the African Region](https://polsci300.github.io/portfolioprojects/sp25/cclery)
 
-* [Celine Wang: Urban Residency & Public Trust In The Chinese Government During Crisis](https://polsci300.github.io/sp25/celinew)
+* [Celine Wang: Urban Residency & Public Trust In The Chinese Government During Crisis](https://polsci300.github.io/portfolioprojects/sp25/celinew)
 
-* [Geoffrey Martin: The Impact of Lifestyle on Exam Scores](https://polsci300.github.io/sp25/gimartin)
+* [Geoffrey Martin: The Impact of Lifestyle on Exam Scores](https://polsci300.github.io/portfolioprojects/sp25/gimartin)
 
-* [Jamie Sullivan: Trust In The Media And Partisanship](https://polsci300.github.io/sp25/jamiesul)
+* [Jamie Sullivan: Trust In The Media And Partisanship](https://polsci300.github.io/portfolioprojects/sp25/jamiesul)
 
-* [John Jenkins: COVID-19 and How it Affected European Political Engagement](https://polsci300.github.io/sp25/jenkij)
+* [John Jenkins: COVID-19 and How it Affected European Political Engagement](https://polsci300.github.io/portfolioprojects/sp25/jenkij)
 
-* [Maxymilian Stefanski, Aditya Kutty, Jaemo Hyun: Life Expectancy Trends in Alaska Counties (1982-2019)](https://polsci300.github.io/sp25/akutty)
+* [Maxymilian Stefanski, Aditya Kutty, Jaemo Hyun: Life Expectancy Trends in Alaska Counties (1982-2019)](https://polsci300.github.io/portfolioprojects/sp25/akutty)
 
-* [Ryan Young: Does Police Presence Reduce Violent Crime?](https://polsci300.github.io/sp25/yryan)
+* [Ryan Young: Does Police Presence Reduce Violent Crime?](https://polsci300.github.io/portfolioprojects/sp25/yryan)
 
-* [Thomas Wood: Electoral Districts and Competitiveness](https://polsci300.github.io/sp25/tmwood)
+* [Thomas Wood: Electoral Districts and Competitiveness](https://polsci300.github.io/portfolioprojects/sp25/tmwood)
